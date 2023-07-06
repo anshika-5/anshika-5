@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey There!👋 I am Anshika Chauhan</h1>
+<h1 align="center">Hey There!👋</h1>
 <h3 align="center">I am Anshika Chauhan, a pre-final year student at NIT Jalandhar. A passionate tech enthusiast🚀 on a relentless pursuit of knowledge from India🇮🇳. Into Web dev, ML, and now diving into the world of DevOps. 🌍 Let's build amazing things together!</h3>
 
 - 🌅 **Google WE Scholar'22**
