@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 **GHC'23 Scholar**
   
-- - 🌱 I’m currently learning **DSA and strengthening my problem solving skils**
+- 🌱 I’m currently learning **DSA and strengthening my problem solving skils**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anshika-5.vercel.app/](https://portfolio-anshika-5.vercel.app/)
 
