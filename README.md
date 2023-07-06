@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey There!👋 I am Anshika Chauhan</h1>
-<h3 align="center">A pre-final year student at NIT Jalandhar. A passionate tech enthusiast🚀 on a relentless pursuit of knowledge from India🇮🇳. Web dev, ML, and now diving into the world of DevOps. 🌍 Let's build amazing things together!</h3>
+<h3 align="center">I am Anshika Chauhan, a pre-final year student at NIT Jalandhar. A passionate tech enthusiast🚀 on a relentless pursuit of knowledge from India🇮🇳. Into Web dev, ML, and now diving into the world of DevOps. 🌍 Let's build amazing things together!</h3>
 
 - 🌅 **Google WE Scholar'22**
 
-- 🌱 I’m currently learning **DSA and strengthening my problem solving skils**
-
 - 👨🏽‍💻 **GHC'23 Scholar**
-
-- 👨🏽‍💻 **Data Analyst Intern @NoQs Digital**
+  
+- - 🌱 I’m currently learning **DSA and strengthening my problem solving skils**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anshika-5.vercel.app/](https://portfolio-anshika-5.vercel.app/)
 
