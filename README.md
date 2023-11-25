@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **@anshika-5**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18RfT0xhAhzHPstUySRCLfz3r91dxYSDN/view?usp=sharing](https://drive.google.com/file/d/18RfT0xhAhzHPstUySRCLfz3r91dxYSDN/view?usp=sharing)
 
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
